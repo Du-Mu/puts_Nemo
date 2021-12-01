@@ -17,7 +17,7 @@ bd.sh:build script
 Print the hello world:
 ```
 sh bd.sh #Compile the generated ELF
-./hello #run
+./hello  #run
 ```
 If you want to use it in other file,you should change hello and hello.c in the file to xxx and xxx.c
 
