@@ -14,7 +14,7 @@ puts_Nemo.h:head file
 bd.sh:build script  
 
 ---
-run:
+Print the hello world:
 ```
 sh bd.sh #Compile the generated ELF
 ./hello #run
