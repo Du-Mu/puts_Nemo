@@ -19,6 +19,6 @@ Print the hello world:
 sh bd.sh #Compile to generate ELF
 ./hello  #run
 ```
-If you want to use it in other file,you should change hello and hello.c in the file to xxx and xxx.c
+If you want to use it in other file,you should change hello and hello.c in the bd.sh file to xxx and xxx.c
 
 
