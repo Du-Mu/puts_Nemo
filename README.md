@@ -8,10 +8,10 @@ Function prototype:
 void puts_Nemo(char * )
 
 ---
-puts_Nemo.c:source code
-puts.jpg:running picture
-puts_Nemo.h:head file
-bd.sh:build script
+puts_Nemo.c:source code  
+puts.jpg:running picture  
+puts_Nemo.h:head file  
+bd.sh:build script  
 
 ---
 run:
